@@ -1,6 +1,5 @@
 # Build files #
 ###############
-build/
 node_modules/
 
 # OS generated files #
